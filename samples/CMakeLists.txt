@@ -40,6 +40,7 @@ endfunction(buildExamples)
 set(EXAMPLES
     01A-VkHelloWindow
 	01B-VkHelloTriangle
+	01C-VkHelloSCBs
 )
 
 buildExamples()
