@@ -41,6 +41,7 @@ set(EXAMPLES
     01A-VkHelloWindow
 	01B-VkHelloTriangle
 	01C-VkHelloSCBs
+	01D-VkHelloUniforms
 )
 
 buildExamples()
